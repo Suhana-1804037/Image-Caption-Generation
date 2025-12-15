@@ -1,4 +1,5 @@
 # Image-Caption-Generation
+Dataset: flickr8k
 1) Image Feature Extraction
 (CNN encoder)
 Pre-trained CNN
